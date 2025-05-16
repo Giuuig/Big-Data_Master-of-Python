@@ -1,0 +1,1 @@
+Questa repository è stata costruita per caricare i task di Big Data, AA24/25, del team "Master of Python". Ogni task è stato zippato e contiene: file di lavoro, pdf con la descrizione dei task ed eventuali pdf di commento alle soluzioni che abbiamo trovato.
